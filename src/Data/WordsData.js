@@ -29,7 +29,6 @@ const wordsData = [
     meaning: "Dealing with things sensibly and realistically.",
     sentence: "A pragmatic approach to studying focuses on high-yield topics first."
   },
-
   {
     id: 6,
     word: "Prolific",
