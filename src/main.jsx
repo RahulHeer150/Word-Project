@@ -8,5 +8,5 @@ import { WordProvider } from './context/WordContext.jsx'
 createRoot(document.getElementById('root')).render(
   <WordProvider>
     <App />
-  </WordProvider>,
+  </WordProvider>
 )
