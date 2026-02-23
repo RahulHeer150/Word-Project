@@ -9,8 +9,14 @@ const Card = ({word, meaning, sentance}) => {
 
       <p className='text-[#E6EDF3] mb-3 leading-relaxed'>
         <span className='text-[#7C3AED] font-semibold'>
-
+          Meaning:
         </span>
+        {" "}
+        {meaning}
+
+      </p>
+
+      <p className=''>
 
       </p>
 
