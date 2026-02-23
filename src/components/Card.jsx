@@ -16,10 +16,17 @@ const Card = ({word, meaning, sentance}) => {
 
       </p>
 
-      <p className=''>
+      <p className='text-gray-400 italic leading-relaxed'>
+         <span className='text-[#7C3AED] font-semibold not-italic'>
+        Example:
+
+      </span>{" "}
+      "{sentance}"
+
 
       </p>
 
+     
     </div>
   )
 }
